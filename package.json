@@ -1,0 +1,26 @@
+{
+  "name": "sokit",
+  "version": "1.0.0",
+  "description": "a sokit app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinchuanjiang/sokit.git"
+  },
+  "keywords": [
+    "sokit"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinchuanjiang/sokit/issues"
+  },
+  "homepage": "https://github.com/yinchuanjiang/sokit#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
